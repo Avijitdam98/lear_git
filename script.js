@@ -1,0 +1,1 @@
+const a="Hi i am avijit"
